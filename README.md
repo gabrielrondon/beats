@@ -25,20 +25,20 @@ A minimalist web application for generating binaural beats to help with focus, r
 ## Getting Started
 
 1. Clone the repository:
-```bash
-git clone https://github.com/gabrielrondon/beats.git
-cd beats
-```
+   ```bash
+   git clone https://github.com/gabrielrondon/beats.git
+   cd beats
+   ```
 
 2. Install dependencies:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Run the development server:
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
