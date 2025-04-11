@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Binaural Beats Generator',
   description: 'A minimalist web application for generating binaural beats to help with focus, relaxation, and meditation.',
+  icons: {
+    icon: '/icon.png'
+  }
 }
 
 export default function RootLayout({
